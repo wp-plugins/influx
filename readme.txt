@@ -1,9 +1,9 @@
 === Influx ===
 Contributors: S Mayo
 Tags: influx, embed
-Requires at least: 4.3
+Requires at least: 4.0
 Tested up to: 4.3
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,9 +28,12 @@ Yes.
 
 = What about support? =
 
-Please your normal Influx support channels
+Please use your normal Influx support channels
 
 == Changelog ==
+
+= 0.1.1 =
+Change minimum version and fix typo
 
 = 0.1 =
 This is the first release of the plugin with planner integration.
